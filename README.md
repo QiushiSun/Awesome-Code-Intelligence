@@ -62,15 +62,16 @@ Introducing the resources provided by our survey paper, slides is also available
 
 ## Recent Work on Code Intelligence (Welcome PR) 📗
 
-
+- [DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation](https://arxiv.org/abs/2506.20639) 2025.6
+- [Co-Evolving LLM Coder and Unit Tester via Reinforcement Learning](https://arxiv.org/abs/2506.03136) 2025.6
 - [CodeI/O: Condensing Reasoning Patterns via Code Input-Output Prediction](https://arxiv.org/abs/2502.07316) 2025.2
 - [Competitive Programming with Large Reasoning Models](https://arxiv.org/abs/2502.06807) 2025.2
 - [EpiCoder: Encompassing Diversity and Complexity in Code Generation](https://arxiv.org/abs/2501.04694v1) 2025.1
 - [WarriorCoder: Learning from Expert Battles to Augment Code Large Language Models](https://arxiv.org/abs/2412.17395) 2024.12
 - [FullStack Bench: Evaluating LLMs as Full Stack Coders](https://arxiv.org/abs/2412.00535) 2024.12
 - [CodeDPO: Aligning Code Models with Self Generated and Verified Source Code](https://arxiv.org/abs/2410.05605) 2024.11
-- [OpenCoder: The Open Cookbook for Top-Tier Code Large Language Models](https://opencoder-llm.github.io/) 2024.11
-- [Qwen2.5-Coder Series: Powerful, Diverse, Practical.](https://github.com/QwenLM/Qwen2.5-Coder) 2024.11
+<!-- - [OpenCoder: The Open Cookbook for Top-Tier Code Large Language Models](https://opencoder-llm.github.io/) 2024.11
+- [Qwen2.5-Coder Series: Powerful, Diverse, Practical.](https://github.com/QwenLM/Qwen2.5-Coder) 2024.11 -->
 <!-- - [RLEF: Grounding Code LLMs in Execution Feedback with Reinforcement Learning](https://huggingface.co/papers/2410.02089) 2024.10 -->
 <!-- - [To Code, or Not To Code? Exploring Impact of Code in Pre-training](https://arxiv.org/abs/2408.10914) 2024.08 -->
   
