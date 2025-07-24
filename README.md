@@ -55,7 +55,7 @@ Introducing the resources provided by our survey paper, slides is also available
 <details open>
 <summary>The Development of Code Intelligence</summary>
 
-![milestones](assets/codelms-tree-v19.png)
+![milestones](assets/codelms-tree-v20.png)
 
 </details>
 
